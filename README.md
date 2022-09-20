@@ -1,10 +1,12 @@
-### Hi, I'm Doma.
+Hi, I'm Doma.
 
 - Engineer specializing in development of web apps using GraphQL API.
 
 - Proponent of strongly typed languages and functional programming.
 
 - Currently building a web app for tracking GHG emissions in energy industry, using only Rust technology stack, including frontend (compiling Rust to WASM).
+
+- 3 years of experience as Backend/Data Engineer.
 
 <!--
 **nomanleftbehind/nomanleftbehind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
