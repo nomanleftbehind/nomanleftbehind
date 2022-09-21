@@ -70,16 +70,28 @@ Web Developer
 ### Badges
 <b>My GitHub Stats</b>
 
-<p style="display: grid; gap: 16px;">
-	<a style="grid-column: 1; grid-row: 1; display: flex; justify-content: center;" href="http://www.github.com/nomanleftbehind">
-		<img src="https://github-readme-stats.vercel.app/api?username=nomanleftbehind&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nomanleftbehind's GitHub stats" />
-	</a>
-	<a style="grid-column: 1; grid-row: 2; display: flex; justify-content: center;" href="http://www.github.com/nomanleftbehind">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanleftbehind&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-	</a>
-	<a style="grid-column: 2; grid-row: 1/3; display: flex; justify-content: center;" href="https://github.com/nomanleftbehind">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanleftbehind&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-	</a>
+<p align="left">
+	<table style="border-spacing: 0; text-align: center;">
+			<tr>
+				<td>
+					<a href="http://www.github.com/nomanleftbehind">
+						<img src="https://github-readme-stats.vercel.app/api?username=nomanleftbehind&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nomanleftbehind's GitHub stats" />
+					</a>
+				</td>
+				<td rowspan="2">
+					<a href="https://github.com/nomanleftbehind">
+						<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanleftbehind&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="http://www.github.com/nomanleftbehind">
+						<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanleftbehind&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+					</a>
+				</td>
+			</tr>
+	</table>
 </p>
 
 <!--
