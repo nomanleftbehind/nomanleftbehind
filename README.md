@@ -7,7 +7,7 @@ Web Developer
 *   🌍  Based in Calgary, Canada
 *   🔭  Specializing in development of web apps using GraphQL API
 *   🌱  Proponent of strongly typed languages and functional programming
-*   🤔  Currently building a web app for tracking GHG emissions in energy industry, using only Rust technology stack, including frontend (compiling Rust to WASM)
+*   🤔  Currently building an application for managing methane emissions in oil and gas industry
 *   ✉️  You can contact me at [domagoj.sucic1@gmail.com](mailto:domagoj.sucic1@gmail.com)
 *   👯  I'm open to collaborate on interesting projects
 *   ⚡  When drinking orange juice, I can't help but chug
@@ -25,11 +25,11 @@ Web Developer
 
 ### Skills
 <p align="left">
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img src="./public/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-	</a>
 	<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
 		<img src="./public/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+		<img src="./public/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 	</a>
 	<a href="https://graphql.org/" target="_blank" rel="noreferrer">
 		<img src="./public/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
@@ -61,9 +61,6 @@ Web Developer
   </a>
   <a href="https://www.linkedin.com/in/domagojsucic/" target="_blank" rel="noreferrer">
 		<img src="./public/socials/linkedin.svg" width="32" height="32" />
-	</a>
-  <a href="https://twitter.com/albaquoiqui" target="_blank" rel="noreferrer">
-		<img src="./public/socials/twitter.svg" width="32" height="32" />
 	</a>
 </p>
 
