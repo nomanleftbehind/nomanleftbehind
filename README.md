@@ -8,7 +8,7 @@ Web Developer
 *   🔭  Specializing in development of web apps using GraphQL API
 *   🌱  Proponent of strongly typed languages and functional programming
 *   🤔  Currently building an application for managing methane emissions in oil and gas industry
-*   ✉️  You can contact me at [domagoj.sucic1@gmail.com](mailto:domagoj.sucic1@gmail.com)
+*   ✉️  You can contact me at [doma.nmlb@gmail.com](mailto:doma.nmlb@gmail.com)
 *   👯  I'm open to collaborate on interesting projects
 *   ⚡  When drinking orange juice, I can't help but chug
 <!-- *   🖥️  See my portfolio at []() -->
