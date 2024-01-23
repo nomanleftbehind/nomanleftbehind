@@ -13,5 +13,4 @@ Previously, I bult an application for [Pipeline Integrity and Risk Assessment](h
 
 ### Contact ✉️
 
-* ✍️ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/domasucic/) or at doma.nmlb (at) gmail.com.  
-* 📆 Do you have an idea or project you want to talk about face to face? [Book me up!](https://calendly.com/nomanleftbehind/30min)
+* ✍️ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/domasucic/) or at doma.nmlb (at) gmail.com.
